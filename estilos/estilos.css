@@ -283,3 +283,14 @@ justify-content: center;
         padding-left: 5px;
     }
 }
+
+footer{
+    padding: 20px;
+    text-align: center;
+}
+
+footer > p {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-size: 20px;
+}
